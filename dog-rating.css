@@ -1,0 +1,84 @@
+.centered {
+
+	text-align: center;
+
+}
+
+.dogname{
+
+	color: #7FFFD4;
+	text-shadow: 2px 2px black;
+	font-size: 40px;
+	background-color: #ff7faa;
+	padding: 5px;
+
+}
+
+.dognamealt{
+
+	color: #ff7faa;
+	background-color: #7FFFD4;
+	text-shadow: 2px 2px black;
+	font-size: 40px;
+	position:relative;
+	bottom: 150px;
+	padding: 5px;
+
+}
+
+.dograting {
+
+	max-width: 400px	;
+	position: relative;
+	bottom: 350px;
+	left: 766px;
+	font-style: italic;
+	font-size: 30px;
+	background-color: #7FFFD4;
+	padding: 20px;
+
+}
+
+.dogratingalt {
+
+	max-width: 400px	;
+	position: relative;
+	top: 30px;
+	left: 298px;
+	font-style: italic;
+	font-size: 30px;
+	background-color: #ff7faa;
+	padding: 20px;
+}
+
+img {
+
+	border-color: #7FFFD4;
+	border-width: 15px;
+	border-style: solid;
+	max-width: 736px;
+	padding-bottom: 10px;
+
+}
+
+.imgalt {
+
+	border-color: #ff7faa;
+	border-width: 15px;
+	border-style: solid;
+	max-width: 736px;
+	float:right;
+	position:relative;
+	bottom: 150px;
+	
+}
+
+body {
+
+	width: 97vw;
+	height: 97vh;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #9ed6f0;
+
+}
